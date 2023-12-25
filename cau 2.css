@@ -1,0 +1,41 @@
+*{
+    color: blue;
+}
+
+header{
+    text-align: center;
+}
+
+section{
+    display: flex;
+    justify-content: space-around;
+}
+
+table{
+    margin: auto;
+    width: 80%;
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+
+tr , th , tr{
+    border: 2px solid black;
+}
+
+th , td{
+    color : black;
+    text-align: center;
+    border: 2px solid black;
+}
+
+th{
+    background-color: yellow;
+}
+
+.none{
+    background-color: white;
+}
+
+.set-color{
+    background-color: chocolate;
+}
